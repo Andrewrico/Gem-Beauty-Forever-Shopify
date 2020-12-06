@@ -24,7 +24,7 @@
 /*================ #Giftcard Template ================*/
 
 body {
-  background-color: #fafafa;
+  background-color: #fafafa!important;
 }
 
 .giftcard__apple-wallet-image {
