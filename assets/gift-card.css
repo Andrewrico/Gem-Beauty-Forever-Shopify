@@ -22,6 +22,11 @@
 /*================ Product video ================*/
 /*================ Image placeholder ================*/
 /*================ #Giftcard Template ================*/
+
+body {
+  background-color: red;
+}
+
 .giftcard__apple-wallet-image {
   display: block;
   margin: 0 auto; }
