@@ -1,16 +1,12 @@
-development:
-  password: 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
-  theme_id: "116641136839"
-  store: gem-and-beauty-forever.myshopify.com
-  timeout: 60s
-production:
-  password: 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
-  theme_id: "116372537543"
-  store: gem-and-beauty-forever.myshopify.com
-  timeout: 60s
-  readonly: true
-test:
-  password: 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
-  theme_id: "116643168455"
-  store: gem-and-beauty-forever.myshopify.com
-  ignores: ignore.txt
+staging:
+  password: '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'
+  theme_id: '116657422535'
+  store: 'gem-and-beauty-forever.myshopify.com'
+preproduction:
+  password: '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'
+  theme_id: '116657488071'
+  store: 'gem-and-beauty-forever.myshopify.com'
+master:
+  password: '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'
+  theme_id: '116657389767'
+  store: 'gem-and-beauty-forever.myshopify.com'
