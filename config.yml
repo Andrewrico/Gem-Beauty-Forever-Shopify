@@ -11,8 +11,3 @@ master:
   theme_id: '116657389767'
   store: 'gem-and-beauty-forever.myshopify.com'
 
-
-branch:
-  password: ${SHOPIFY_BRANCH_PASSWORD}
-  theme_id: ${SHOPIFY_BRANCH_THEME_ID}
-  store: ${SHOPIFY_BRANCH_STORE_URL}
