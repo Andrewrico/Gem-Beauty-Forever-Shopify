@@ -2,9 +2,8 @@ name: Deploy Pre-production Theme
 
 on:
   push:
-    pull_request: null
     branches:
-      - preprod
+      - preproduction
 
 jobs:
   deploy:
