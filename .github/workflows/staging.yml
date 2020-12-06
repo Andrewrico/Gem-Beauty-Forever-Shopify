@@ -2,9 +2,8 @@ name: Deploy Staging Theme
 
 on:
   push:
-    pull_request: null
     branches:
-      - develop
+      - staging
 
 jobs:
   deploy:
